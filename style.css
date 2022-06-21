@@ -1,9 +1,42 @@
-h1{
- color:#6D6875;
 
+body{
+    background-image: url(chilldesk.jpeg);
+    background-size: cover;
+}
+
+#MotivationalHeaderTitle{
+ color:floralwhite;
+ text-align: center;
+ background-image: url(rollinghills.jpeg);
+ background-size: cover;
+ padding-top: 2px;
+}
+
+.AtomicHabitsQuote{
+    float: right;
+    margin: auto;
+    left: 500px ;
+
+}
+
+ul{
+    color: floralwhite;
+}
+
+li{
+    color: floralwhite;
+}
+
+#hyperlinks{
+    background-color: #7da27e;
+    margin-right: 1050px ;
+    height: 85px;
+    width: 300px;
+    padding-left: 25px;
 }
 
 p{
 font-family: TimeTraveler,Arial,Helvetica,sans-serif;
 font-weight: 400;
+color: floralwhite;
 }
