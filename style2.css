@@ -1,0 +1,15 @@
+/* CSS style page dedicated to reading recommendation page of website */
+
+
+body {
+	background-image: url(workoutvibes.jpeg);
+	background-size: cover;
+	color: floralwhite;
+}
+
+#TextBackgroundBox {
+	background-color: floralwhite;
+	padding: 5px ;
+	width: 350px;
+	height: 175px ;
+}
