@@ -1,14 +1,25 @@
 /* CSS style page dedicated to reading recommendation page of website */
 
+#title {
+	position:  fixed;
+	top:  25px;
+	left:  600px;
+}
 
 body {
 	background-image: url(workoutvibes.jpeg);
 	background-size: cover;
 	color: floralwhite;
+	position: fixed;
+	top: 100px;
+	left: 250px;
 }
 
 #TextBackgroundBox {
 	background-color: floralwhite;
+	position: fixed;
+	top: 200px;
+	left: 500px;
 	padding: 5px ;
 	width: 350px;
 	height: 175px ;
